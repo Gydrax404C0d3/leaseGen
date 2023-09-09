@@ -61,7 +61,7 @@ import java.util.concurrent.ThreadLocalRandom;
 		 		 .append("\n\nSign here: ________________\r\n")
 		 		 .append("Fictional Apartments");
  
-		 System.out.println(genLease.toString());
+		 System.out.println(genLease.toString());//print String Builder
 		 
 	 }//end of member function GetLease
 
